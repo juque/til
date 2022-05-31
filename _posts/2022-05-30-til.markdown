@@ -12,5 +12,5 @@ Hace mucho tiempo tenía ganas de montar un TIL, y bueno, aquí estamos.
 Blog o log o entrada muy técnica y _al grano_, sin más preámbulo que eso que hoy
 aprendí.
 
-Personalmente lo veo como notas personales que—quizá—alguien más encuentre
-interesante.
+Las veo como notas personales que—quizá—alguien más también las encuentre
+interesantes.
