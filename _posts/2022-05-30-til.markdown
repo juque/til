@@ -1,0 +1,15 @@
+---
+layout: post
+title: "TIL"
+date: 2022-05-30 23:00:00 -0400
+contegories: til
+---
+
+Hace mucho tiempo tenía ganas de montar un TIL, y bueno, aquí estamos.
+
+¿Qué _demonios_ es TIL?... del inglés: **today I learned**.. hoy aprendí.
+
+Blog o log técnico al grano, sin más. 
+
+Personalmente lo veo como notas personales que quizá sean del interés de otra
+persona en alguna parte del mundo que hable español.
