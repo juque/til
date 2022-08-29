@@ -55,3 +55,9 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /log/:year/:month/:day/:title/
+
+defaults:
+  -scope:
+    path: "assets/img"
+    values:
+      image: true
